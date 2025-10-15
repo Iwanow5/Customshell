@@ -1,1 +1,11 @@
+This is a user manual for my customshell program for stage 1.
 
+commands available:
+cd (directory):  changes directory to the directory specified
+clr:             clears screen
+dir (directory): displays the contents of the directory specified
+environ:         shows all the environment variables
+echo (...):      displays the provided text
+help:            displays the user_manual.txt
+pause:           waits for the use to press enter
+quit:            quits the shell
